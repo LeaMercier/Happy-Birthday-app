@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_tom">Happy Birthday, Tom</string>
+    <string name="from_you_know_who">From you know who</string>
+    <string name="image_de_bois">Image de bois</string>
+</resources>
